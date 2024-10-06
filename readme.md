@@ -59,9 +59,9 @@ line 67.
 
 2. Download the attachment, in the main wr4th folder
 
-3. Install all requirements
+3. Install colorama
 
-```pip install -r requirements.txt```
+```pip install colorama```
 
 4. Open terminal in the same directory and run the command
 
